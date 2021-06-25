@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smaarak_App</string>
+    <string name="click_a_picture">Click a picture</string>
+    <string name="this_is_a_sample_text">This is a sample text</string>
+</resources>

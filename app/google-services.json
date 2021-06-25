@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "35319765583",
+    "project_id": "capstone-1e935",
+    "storage_bucket": "capstone-1e935.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35319765583:android:900d2386b6461a8a6fe83a",
+        "android_client_info": {
+          "package_name": "com.example.smaarak_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35319765583-v28k62v3j08aomjr4q8qo8sesd8cioos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-w3orvAEvHc_4bj0MbQDlb5zfZqaPLog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35319765583-v28k62v3j08aomjr4q8qo8sesd8cioos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
